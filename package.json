@@ -4,12 +4,12 @@
   "description": "A comprehensive TypeScript library for graph data structures (directed, undirected) and advanced graph algorithms (BFS, DFS, Dijkstra, transpose, etc.).",
   "scripts": {
     "build:lib": "rimraf ./lib && vite build",
-    "build:dts": "dts-bundle-generator -o lib/index.d.ts src/index.ts --no-check --inline-declare-externals false --external-inlines @babel/types",
+    "build:dts": "dts-bundle-generator -o lib/index.d.ts src/index.ts --no-check --inline-declare-externals --external-inlines @raikuxq/alg-ds",
     "build:full": "yarn build:lib && yarn build:dts"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/raikuxq/graph-kit"
+    "url": "https://github.com/raikuxq/graph-ds-kit"
   },
   "keywords": [
     "graph",

@@ -1,9 +1,9 @@
-# graph-kit
+# graph-ds-kit
 A comprehensive TypeScript library for graph data structures (directed, undirected) and advanced graph algorithms (BFS, DFS, Dijkstra, transpose, has path, shortest path.).
 
-[![npm version](https://img.shields.io/npm/v/graph-kit.svg)](https://www.npmjs.com/package/graph-kit)
-[![minzip](https://img.shields.io/bundlephobia/minzip/graph-kit)](https://bundlephobia.com/package/graph-kit)
-[![gzip size](https://img.shields.io/bundlejs/size/gzip/graph-kit)](https://bundlejs.com/?q=graph-kit)
+[![npm version](https://img.shields.io/npm/v/graph-ds-kit.svg)](https://www.npmjs.com/package/graph-ds-kit)
+[![minzip](https://img.shields.io/bundlephobia/minzip/graph-ds-kit)](https://bundlephobia.com/package/graph-ds-kit)
+[![gzip size](https://img.shields.io/bundlejs/size/gzip/graph-ds-kit)](https://bundlejs.com/?q=graph-ds-kit)
 ---
 
 ## Documentation
@@ -15,6 +15,6 @@ Detailed documentation is available at:
 
 # Installing
 Install by using any of these commands:
-+ `yarn add graph-kit`
-+ `npm install graph-kit --save`
++ `yarn add graph-ds-kit`
++ `npm install graph-ds-kit --save`
 
