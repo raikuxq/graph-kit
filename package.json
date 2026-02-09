@@ -1,5 +1,5 @@
 {
-  "name": "graph-kit",
+  "name": "graph-ds-kit",
   "version": "1.0.0",
   "description": "A comprehensive TypeScript library for graph data structures (directed, undirected) and advanced graph algorithms (BFS, DFS, Dijkstra, transpose, etc.).",
   "scripts": {
